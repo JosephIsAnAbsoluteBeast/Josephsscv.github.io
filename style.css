@@ -1,0 +1,69 @@
+html {
+	height: 100%;
+}
+body {
+	background-color: #38ADF4;
+	font-family: 'Andada', serif ;
+	
+}
+
+#container {
+	width: 738.55px;
+	margin: auto;
+}
+
+.small {
+	text-align: center;
+	font-size:70%;
+}
+
+h1{
+	text-align: center;
+	margin: 0px; 
+	padding: 0px;
+	border: 0px 
+	color: #873600;  
+}
+
+h4{
+	text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+ul.myinfo {
+	list-style-type: none; 
+	padding-bottom: 75px; 
+	padding-left: 200px;
+}
+
+.round {    
+	border-radius: 8px;
+}
+
+ul.horizontal {
+	list-style-type: none;
+}
+
+.horizontal li {
+	padding: 10px;
+	margin: 0px;
+	float: left;
+}
+
+#navSocial {
+	height: 100px;
+}
+
+footer{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;	
+}
+
+a:hover {
+ color: #252137 
+}
